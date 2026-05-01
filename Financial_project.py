@@ -6,3 +6,5 @@ Years = int(input("Please enter the number of years you want to invest: "))
 Future_Value = Amount * (1 + Rate / 100) ** Years
 print(f"The future value of your investment will be: {Future_Value:.2f}")
           Adhejsejfiorioh
+
+          
